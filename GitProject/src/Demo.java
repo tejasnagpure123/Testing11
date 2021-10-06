@@ -1,6 +1,10 @@
 
 public class Demo {
 
+	public void m4()
+	{
+		System.out.println("This is m4 method");
+	}
 	public void m2()
 	{
 		System.out.println("this is m2 method");
